@@ -1,0 +1,1 @@
+import{a as o,V as e,d as p,e as t,C as r}from"./vue.8ddc989e.js";import"./vendor.35846cd0.js";import"./__commonjsHelpers__.28e086c5.js";o.use(e);new o({render:a=>a(p),router:new e({mode:"hash",routes:[{path:"/",component:t},{path:"/chao",component:r}]})}).$mount("#app");

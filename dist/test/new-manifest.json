@@ -1,0 +1,81 @@
+{
+  "___commonjsHelpers__.28e086c5.js": {
+    "file": "assets/js/__commonjsHelpers__.28e086c5.js"
+  },
+  "_vendor.35846cd0.js": {
+    "file": "assets/js/vendor.35846cd0.js",
+    "imports": [
+      "___commonjsHelpers__.28e086c5.js"
+    ]
+  },
+  "_vue.8ddc989e.js": {
+    "assets": [
+      "assets/css/vue.5532db34.svg"
+    ],
+    "css": [
+      "assets/css/vue.345b8933.css"
+    ],
+    "file": "assets/js/vue.8ddc989e.js",
+    "imports": [
+      "_vendor.35846cd0.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/js/main.87834ade.js",
+    "imports": [
+      "_vue.8ddc989e.js",
+      "_vendor.35846cd0.js",
+      "___commonjsHelpers__.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/vue.svg": {
+    "file": "assets/css/vue.5532db34.svg",
+    "src": "src/assets/vue.svg"
+  },
+  "src/index.html": {
+    "file": "assets/js/index.bee43ea4.js",
+    "imports": [
+      "_vue.8ddc989e.js",
+      "_vendor.35846cd0.js",
+      "___commonjsHelpers__.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "src/index.html"
+  },
+  "src/test-index.html": {
+    "file": "assets/js/testindex.4c7014a3.js",
+    "imports": [
+      "_vue.8ddc989e.js",
+      "_vendor.35846cd0.js",
+      "___commonjsHelpers__.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "src/test-index.html"
+  },
+  "src/test-main.html": {
+    "file": "assets/js/testmain.0865f0d3.js",
+    "imports": [
+      "_vue.8ddc989e.js",
+      "_vendor.35846cd0.js",
+      "___commonjsHelpers__.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "src/test-main.html"
+  },
+  "src/test-master.html": {
+    "file": "assets/js/testmaster.913f552d.js",
+    "imports": [
+      "_vue.8ddc989e.js",
+      "_vendor.35846cd0.js",
+      "___commonjsHelpers__.28e086c5.js"
+    ],
+    "isEntry": true,
+    "src": "src/test-master.html"
+  },
+  "vue.css": {
+    "file": "assets/css/vue.345b8933.css",
+    "src": "vue.css"
+  }
+}

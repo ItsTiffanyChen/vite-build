@@ -1,0 +1,1 @@
+import{V as e,H as p,B as a,a as r,A as t}from"./vue.8ddc989e.js";import"./vendor.35846cd0.js";import"./__commonjsHelpers__.28e086c5.js";new e({mode:"hash",routes:[{path:"/",component:p},{path:"/bye",component:a}]});new r({render:o=>o(t)}).$mount("#app");
